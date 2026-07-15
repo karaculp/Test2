@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-07-15T20:25:18.441Z",
+  "created_by": "karaculp",
+  "title": "Video 1",
+  "slug": "video-1",
+  "updated_at": "2026-07-15T20:25:18.441Z",
+  "updated_by": "karaculp",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "935b2c9b-0b03-4c91-8198-9c297daa2b56"
+  }
+}
